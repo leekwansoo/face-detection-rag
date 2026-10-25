@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+opencv-python
+numpy
+faiss-cpu
+pillow
+insightface
+onnxruntime
+face-recognition
+av

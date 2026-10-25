@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python
+numpy
+faiss-cpu
+insightface
+onnxruntime
+pillow
+streamlit
+streamlit-webrtc
+face-recognition 
+av  
